@@ -10,7 +10,7 @@
 	<!-- <link rel="stylesheet" href="./e-commerce/public/css/login.css"> -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 </head>
-<!--Coded with love by Mutiullah Samim-->
+
 <body>
 	<div class="container h-100">
 		<div class="d-flex justify-content-center h-100">

@@ -12,8 +12,9 @@
 */
 
 Route::get('/home', function () {
-    return "hello sini view";
+    return "hello guys david disini";
 });
 Route::resource('/crud', 'mainController');
 Route::resource('/', 'HomeController');
 Route::resource('/masuk', 'AuthController');
+Route::resource('/daftar', 'Auth\RegisterController');
